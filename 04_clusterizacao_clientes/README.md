@@ -1,4 +1,4 @@
-# 04 — Segmentação de Clientes
+# Segmentação de Clientes
 
 Projeto de clustering usando RFM simplificado.
 
@@ -8,7 +8,7 @@ Separar clientes por comportamento de compra para apoiar ações de marketing e 
 ## Técnica
 K-Means com padronização dos atributos.
 
-**Dataset real:** [Mall Customers](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) — idade, renda anual e score de gasto de clientes de shopping.
+**Dataset:** [Mall Customers](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) — idade, renda anual e score de gasto de clientes de shopping.
 
 ```bash
 pip install -r requirements.txt
