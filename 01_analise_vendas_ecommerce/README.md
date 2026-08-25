@@ -17,4 +17,4 @@ python scripts/download_data.py
 python src/main.py
 ```
 
-**Dataset real:** [Online Retail (UCI Machine Learning Repository)](https://archive.ics.uci.edu/dataset/352/online+retail) — transações de e-commerce de uma loja no Reino Unido (2010–2011).
+**Dataset:** [Online Retail (UCI Machine Learning Repository)](https://archive.ics.uci.edu/dataset/352/online+retail) — transações de e-commerce de uma loja no Reino Unido (2010–2011).
