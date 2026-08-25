@@ -1,4 +1,4 @@
-# 02 — Previsão de Churn
+# Previsão de Churn
 
 Projeto de Machine Learning supervisionado para prever clientes com maior probabilidade de cancelar um serviço.
 
