@@ -1,0 +1,8 @@
+version: 2
+models:
+  - name: fct_exchange_rates
+    columns:
+      - name: rate_date
+        tests: [not_null]
+      - name: rate
+        tests: [not_null]

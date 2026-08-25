@@ -1,0 +1,7 @@
+version: 2
+models:
+  - name: fct_sales
+    description: "Fato de vendas no nível de pedido."
+    columns:
+      - name: order_id
+        tests: [not_null, unique]

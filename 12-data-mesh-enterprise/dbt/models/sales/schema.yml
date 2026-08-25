@@ -1,0 +1,10 @@
+version: 2
+models:
+  - name: fct_sales
+    meta:
+      domain: sales
+      owner: sales-data-team
+      contract_version: "1.0"
+    columns:
+      - name: order_id
+        tests: [not_null, unique]

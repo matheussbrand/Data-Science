@@ -1,0 +1,12 @@
+domain: sales
+owner: sales-data-team
+version: "1.0"
+grain: one row per order
+required_columns:
+  - order_id
+  - customer_id
+  - order_date
+  - amount
+quality:
+  order_id: unique_and_not_null
+  amount: non_negative
