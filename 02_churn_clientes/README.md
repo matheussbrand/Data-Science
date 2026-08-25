@@ -11,7 +11,7 @@ Projeto de Machine Learning supervisionado para prever clientes com maior probab
 - matriz de confusão
 - precision, recall, F1 e ROC-AUC
 
-Os dados são reais: [IBM Telco Customer Churn](https://github.com/IBM/telco-customer-churn-on-icp4d).
+Dados: [IBM Telco Customer Churn](https://github.com/IBM/telco-customer-churn-on-icp4d).
 
 ```bash
 pip install -r requirements.txt
