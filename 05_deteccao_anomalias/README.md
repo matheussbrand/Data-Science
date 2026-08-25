@@ -1,4 +1,4 @@
-# 05 — Detecção de Anomalias
+# Detecção de Anomalias
 
 Projeto para identificar transações fora do comportamento esperado.
 
@@ -10,7 +10,7 @@ A mesma ideia pode ser usada em fraude, monitoramento financeiro, sensores e ope
 
 O projeto não tenta "provar fraude". Ele cria uma camada de triagem para investigação humana.
 
-**Dataset real:** [Credit Card Fraud Detection (OpenML #1597)](https://www.openml.org/search?type=data&status=active&id=1597).
+**Dataset:** [Credit Card Fraud Detection (OpenML #1597)](https://www.openml.org/search?type=data&status=active&id=1597).
 
 ```bash
 pip install -r requirements.txt
