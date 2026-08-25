@@ -39,14 +39,6 @@ Consulte os arquivos de código e o `docker-compose.yml` para o fluxo específic
 
 O principal aprendizado aqui é conseguir explicar a arquitetura, suas decisões e seus limites.
 
-## Próximos passos
-
-- adicionar testes automatizados;
-- adicionar observabilidade;
-- trocar dados locais por cloud;
-- reproduzir a transformação Spark no Databricks;
-- documentar custos e performance.
-
 ## Fluxo mental
 
 ```mermaid
