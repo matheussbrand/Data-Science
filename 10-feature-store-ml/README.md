@@ -5,7 +5,7 @@ O objetivo é separar a engenharia das features do treinamento do modelo.
 Fluxo:
 `eventos → Spark → features offline → Feast → treinamento/serving`
 
-Em uma evolução, adicione `event_timestamp`, fonte histórica e uma store online real.
+Em uma melhoria futura: adicionar `event_timestamp`, fonte histórica e uma store online real.
 
 ## Fluxo mental
 
