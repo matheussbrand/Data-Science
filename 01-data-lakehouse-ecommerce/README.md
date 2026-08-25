@@ -7,7 +7,7 @@
 
 Construir uma versão pequena, reproduzível e didática de uma arquitetura usada no mercado.
 
-Não estou tentando esconder a complexidade atrás de uma ferramenta. O foco é entender o fluxo:
+O foco é entender o fluxo:
 
 **fonte → ingestão → armazenamento → transformação → qualidade → consumo**
 
@@ -15,7 +15,7 @@ Não estou tentando esconder a complexidade atrás de uma ferramenta. O foco é 
 
 ETL/ELT, bronze-silver-gold, particionamento e modelagem analítica.
 
-## Perguntas que eu consigo responder depois deste projeto
+## Perguntas respondidas pelo projeto
 
 - Onde os dados entram?
 - Onde ficam persistidos?
@@ -37,7 +37,7 @@ Consulte os arquivos de código e o `docker-compose.yml` para o fluxo específic
 
 ## O que eu aprendi
 
-O principal aprendizado aqui não é decorar comandos. É conseguir explicar a arquitetura, suas decisões e seus limites.
+O principal aprendizado aqui é conseguir explicar a arquitetura, suas decisões e seus limites.
 
 ## Próximos passos
 
