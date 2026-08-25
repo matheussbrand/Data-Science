@@ -1,4 +1,4 @@
-# 03 — Previsão de Demanda
+Previsão de Demanda
 
 Projeto simples de previsão de demanda para demonstrar como transformar histórico de vendas em uma previsão operacional.
 
