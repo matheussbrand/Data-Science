@@ -1,6 +1,4 @@
-# 01 — Análise de Vendas de E-commerce
-
-Projeto de portfólio para mostrar fundamentos de Ciência de Dados.
+# Análise de Vendas de E-commerce
 
 ## Objetivo
 Analisar vendas, clientes, produtos e regiões para responder perguntas de negócio:
