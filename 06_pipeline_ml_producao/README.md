@@ -1,4 +1,4 @@
-# 06 — Pipeline de Machine Learning
+# Pipeline de Machine Learning
 
 Este projeto fecha o ciclo: dados → treinamento → avaliação → modelo salvo.
 
@@ -9,4 +9,4 @@ Este projeto fecha o ciclo: dados → treinamento → avaliação → modelo sal
 - métricas
 - estrutura organizada de projeto
 
-**Dataset real:** Wisconsin Breast Cancer (Scikit-learn / UCI).
+**Dataset:** Wisconsin Breast Cancer (Scikit-learn / UCI).
